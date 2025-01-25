@@ -1,0 +1,6 @@
+C:\Users\энэка\Desktop\Revit\C\Revit-Pypes\Revit-Pypes\bin\Debug\Revit-Pypes.dll
+C:\Users\энэка\Desktop\Revit\C\Revit-Pypes\Revit-Pypes\bin\Debug\Revit-Pypes.pdb
+C:\Users\энэка\Desktop\Revit\C\Revit-Pypes\Revit-Pypes\obj\Debug\Revit-Pypes.csproj.AssemblyReference.cache
+C:\Users\энэка\Desktop\Revit\C\Revit-Pypes\Revit-Pypes\obj\Debug\Revit-Pypes.csproj.CoreCompileInputs.cache
+C:\Users\энэка\Desktop\Revit\C\Revit-Pypes\Revit-Pypes\obj\Debug\Revit-Pypes.dll
+C:\Users\энэка\Desktop\Revit\C\Revit-Pypes\Revit-Pypes\obj\Debug\Revit-Pypes.pdb
